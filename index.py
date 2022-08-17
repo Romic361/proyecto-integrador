@@ -4,6 +4,7 @@ v = 0
 
 print()
 while n == 0:
+     list.clear(lista)
      while n < 5:
           lista.append(int(input("Valor a calcular: ")))  
           n += 1
